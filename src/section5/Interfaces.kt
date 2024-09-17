@@ -1,6 +1,6 @@
-package section4
+package section5
 
-import section4.SpiceLevel.*
+import section5.SpiceLevel.*
 
 // Uma interface define um contrato, no qual todas as classes
 // que implementem essa interface, precisam fornecer implementações
